@@ -1,0 +1,13 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: ǐǗpx;
+}
+header {
+border-bottom: ǐpx solid #999;
+margin-bottom: 2rem;
+display: flex;
+}
+h1 {
+color: red;
+text-decoration: none;
+}
